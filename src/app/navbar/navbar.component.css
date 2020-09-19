@@ -1,0 +1,45 @@
+.navbar{
+    height: 50px;
+    background-color: #9d8661;
+    padding: 0 0 0 10px;
+}
+
+.nav-item1 a {
+    height: 40px;
+    line-height: 40px;
+    padding: 0;
+}
+
+.nav-item1 a:hover {
+    color: #fff !important;
+}
+
+
+.nav-item2 a:hover {
+    color: #fff !important;
+}
+
+.logo img {
+    max-width: 180px;
+    width: 100%; 
+}
+.logo{
+    padding-left: 20px;
+}
+
+.dropdown-nav{
+    position: relative;
+}
+.search-icon{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(250%, -50%);
+}
+
+.nav-item3 a{
+font-weight: normal;
+font-size: 1.7rem;
+}
+
+
